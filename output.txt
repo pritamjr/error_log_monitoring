@@ -1,0 +1,6 @@
+No output
+No output
+Min: 15.220000, Max: 23.720000, Mean: 20.886667
+No output
+No output
+Min: 23.720000, Max: 23.720000, Mean: 23.720000
